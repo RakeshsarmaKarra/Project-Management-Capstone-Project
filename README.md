@@ -1,4 +1,5 @@
-# 📌 AHI App Development - Project Management Capstone
+# 📌 AHI App Development - Project Management Capstone                                                                                                                       
+## [View my Report](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Project%20Management%20Capstone%20project.pdf)
 
 ## 🎯 Project Overview
 The AHI App Development (Marketing Data Application) is a strategic initiative aimed at enhancing real-time market analysis, customer engagement, and business decision-making. This project follows a structured Project Management approach, ensuring alignment with business goals, budget constraints, and timelines.

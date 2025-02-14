@@ -47,21 +47,21 @@ AHI currently relies on disconnected systems and manual efforts for market track
 - Teams Involved: C-Suite, Marketing, IT, Finance
 
 ## 📌 How to Use This Repository
-- Project Charter: AHI App Project Charter.pdf
-- Stakeholder Register: Stakeholder Register.xlsx
-- Work Breakdown Structure: WBS.xlsx
-- Budget (Resources): High Level Budget - Resource Breakdown Structure.xlsx
-- Communication plan: Communications Management Plan.xlsx
-- Quality Management plan: Quality Management Plan.xlsx
-- Risk Register: Risk Register.xlsx
-- Network Diagram: Project Network Diagram.xlsx
-- Product Backlog: Product Backlog.xlsx
-- User Story: User Story.xlsx
-- Sprint Backlog: Sprint Backlog.xlsx
-- Change Request: AHI Change Request Analysis.pdf
-- Project Status: AHI Project Status Report.pdf
-- Burndown Chart Analysis: Burndown Chart Analysis Worksheet.pdf
-- Project Close Out: AHI Project Close-Out Report.pdf
+- [Project Charter](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20App%20Project%20Charter.pdf)
+- [Stakeholder Register](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Stakeholder%20Register.xlsx)
+- [Work Breakdown Structure](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/WBS%20.xlsx)
+- [Budget (Resources)](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/High%20Level%20Budget%20-%20Resource%20Breakdown%20Structure.xlsx)
+- [Communication plan](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Communications%20Management%20Plan.xlsx)
+- [Quality Management plan](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Quality%20Management%20Plan.xlsx)
+- [Risk Register](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Risk%20Register.xlsx)
+- [Network Diagram](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Project%20Network%20Diagram.xlsx)
+- [Product Backlog](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Product%20Backlog.xlsx)
+- [User Story](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/User%20Story.xlsx)
+- [Sprint Backlog](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Sprint%20Backlog.xlsx)
+- [Change Request](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20Change%20Request%20Analysis.pdf)
+- [Project Status](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20Project%20Status%20Report.pdf)
+- [Burndown Chart Analysis](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/Burndown%20Chart%20Analysis%20Worksheet.pdf)
+- [Project Close Out](https://github.com/RakeshsarmaKarra/Project-Management-Capstone-Project/blob/main/AHI%20Project%20Close-Out%20Report.pdf)
 
 ## 📩 Contact & Contributions
 For queries, contact rakeshsarmakarra@gmail.com.
